@@ -9,4 +9,5 @@ Please inform me of any issues/bugs and I will fix them immediately
 
 ### Have fun!
 
-### WARNING! This program will only work on Windows and has only been tested on Windows 10
+### WARNING! Releases of this program will only work on Windows 10 64-bit
+If you want to use this program on another system, you will have to rebuild/modify it with Microsoft Visual Studio 2017 or similar
