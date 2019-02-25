@@ -8,3 +8,5 @@ As an extra feature, this program will also make UE3 run faster
 Please inform me of any issues/bugs and I will fix them immediately
 
 ### Have fun!
+
+### WARNING! This program will only work on Windows and has only been tested on Windows 10
